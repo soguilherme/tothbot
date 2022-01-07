@@ -11,7 +11,7 @@
 Primeiro coloque está pasta na area de trabalho para facilitar o acesso
 * Abra o CMD e digite isso  
 cd Desktop\tothbot  
-pip install -r requirements_toth.txt [Aperte enter]  
+pip install -r requirements.txt [Aperte enter]  
 * Apos finalizar o ultimo comando, prossiga  
 cd dep [Aperte enter]  
 python setup.py install [Aperte enter]  
